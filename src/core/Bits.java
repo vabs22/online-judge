@@ -3,17 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bits;
-import java.lang.System.*;
+package core;
+
 /**
  *
  * @author vaibhav
  */
-public class test {
-    public static void main(String[] args )
-    {
-            System.out.println("test");
+public class Bits {
 
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
     }
     
 }
