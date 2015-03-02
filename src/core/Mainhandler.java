@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package bits;
+package core;
 
-import static bits.Compareoutput.compare;
-import static bits.Submission.checknrun;
+import static core.Compareoutput.compare;
+import static core.Submission.checknrun;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
